@@ -44,7 +44,7 @@ Here are the actual screenshots from our platform:
 ---
 
 ## **🌍 Deployed URL**
-🔗 **[Access the Live Platform](https://pythoncathers-pk3lnvo6o-bhuvan-patils-projects-2aca3b63.vercel.app)**
+🔗 **[Access the Live Platform](https://pythoncathers.vercel.app)**
 
 ---
 
